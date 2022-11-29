@@ -34,5 +34,9 @@ header h2 {
 }
 
 .navbar {
-    background-color: #20079f;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px 0;
+    border-bottom: blue ridge;
+    border-top: #2bbaea ridge;
+    background-color: #000000;
 }

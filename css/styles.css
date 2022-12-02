@@ -45,3 +45,7 @@ header h2 {
     border-top: #2bbaea ridge;
     background-color: #000000;
 }
+
+.breadcrumb {
+    background-color: rgb(55, 3, 84);
+}
